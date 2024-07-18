@@ -1,1 +1,3 @@
 # MONSTERS-MATCH
+
+Solo admins
